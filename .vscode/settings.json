@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+    ],
+    "[go]": {
+      "editor.formatOnSave": true
+    },
+    "[json,jsonc,jsonl]": {
+      "editor.quickSuggestions": {
+        "strings": true
+      },
+      "editor.suggest.insertMode": "replace",
+      "editor.formatOnSave": true,
+      "editor.formatOnPaste": true
+    }
+}
